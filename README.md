@@ -1,6 +1,16 @@
 # Eureka-widget-property-markdown
 
-This README outlines the details of collaborating on this Ember addon.
+A markdown widget for Eureka model's properties. Usage:
+
+    {
+        title: {
+            type: 'string'
+        },
+        description: {
+            type: 'string',
+            widget: 'markdown'
+        }
+    }
 
 ## Installation
 
