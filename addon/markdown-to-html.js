@@ -1,4 +1,5 @@
 import Ember from 'ember';
+import Showdown from './showdown';
 
 export default Ember.Component.extend({
   afterInit: function() {
