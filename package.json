@@ -1,6 +1,6 @@
 {
   "name": "eureka-widget-property-markdown",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A markdown widget for Eureka model's properties.",
   "directories": {
     "doc": "doc",
