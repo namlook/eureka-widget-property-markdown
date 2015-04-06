@@ -42,8 +42,5 @@
   ],
   "ember-addon": {
     "configPath": "tests/dummy/config"
-  },
-  "dependencies": {
-    "ember-cli-showdown": "^2.1.1"
   }
 }
