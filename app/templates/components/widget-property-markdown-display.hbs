@@ -1,1 +1,5 @@
-{{markdown-to-html markdown=field.value}}
+{{#if markdown.isPending}}
+    loading...
+{{else if markdown.isFulfilled}}
+    {{{markdown.content}}}
+{{/if}}
